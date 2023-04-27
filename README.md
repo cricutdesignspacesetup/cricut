@@ -33,7 +33,7 @@ The Cricut Joy machine is available as a niche machine, which is perfect for beg
 <br>
 Now, the Cricut Maker might be a little more expensive but is a flagship member of Cricut. The machine offers versatility in terms of performance. Crafters with leading workshops or anyone thinking to start a crafting business can consider Cricut Maker as their choice of weapon. You can use it for a variety of innovative products. Whether you need to cut, score, write, deboss, engrave, and more with Cricut Setup tools.
 <br>
-Now, your choice comes down to the project requirement and the budget you can aim for. It is because both machines share different task features and include loads of cutting tools. You can resolve your confusion by visiting www.cricut.com setup by exploring how many options you have got for yourself.
+Now, your choice comes down to the project requirement and the budget you can aim for. It is because both machines share different task features and include loads of cutting tools. You can resolve your confusion by visiting <a href="https://github.com/cricutdesignspacesetup/cricut">cricut.com/setup</a> by exploring how many options you have got for yourself.
 <br>
 <h3>How to Perform Cricut Setup for Craft Projects?</h3>
 If you are a craft person and love to experiment with new technologies, this post is the one for you. Cricut machine is known as the most advanced and creative device existing for the craft industry. As you know, Cricut cutting machines can cut all sorts of designs and materials with a plethora of tools offered with the machine. The materials you can consider cutting are vinyl, paper, card stock, fabric, leather, and even wood (balsa wood or basswood). The range of tools and materials to cut, including the features to create your own designs, makes it one of the best Cricut machines available worldwide. For more details, sign up for the Cricut account at <a href="https://github.com/cricutdesignspacesetup/cricut">cricut.com/setup</a>.
@@ -166,7 +166,7 @@ Solid orange – warming up
 Solid red – error detection
 
 <h3>Q. How much does the Cricut printer cost?</h3>
-If you are looking for a Cricut printer, you will not find one. The Cricut machine is itself capable of writing, scoring, cutting, printing, and more with a plethora of tools to work with. But if you need to print designs on a material, you can connect your home printer to the machine. Check out the list of Cricut products at www.cricut.com setup and choose the right for you.
+If you are looking for a Cricut printer, you will not find one. The Cricut machine is itself capable of writing, scoring, cutting, printing, and more with a plethora of tools to work with. But if you need to print designs on a material, you can connect your home printer to the machine. Check out the list of Cricut products at <a href="https://github.com/cricutdesignspacesetup/cricut">www.cricut.com setup</a> and choose the right for you.
 
 <h3>Q. Can I cut and print on vinyl with the Cricut cutting machine?</h3>
 Yes, you can cut and print over 300 different materials, including vinyl, with the best Cricut machine. For this, you need to download Design Space from <a href="https://github.com/cricutdesignspacesetup/cricut">cricut.com/setup</a> to use the cut and print feature and cut out Cricut design Space.
